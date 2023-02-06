@@ -2,7 +2,7 @@
 
 - 🔭 Data engineering
 - 🤖 Learning Scala
-- ⚡ Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
+- ⚡ Past: Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
 - 🧠 Now: freelance software engineering
 - 🎨 Occasional comics author - here is latest - [History of Company Towns](https://thenib.com/company-towns-history/)
 - 🧑‍⚖️ Former elbow law clerk to 2 different federal trial judges (a long time ago, but still pretty cool experience)
