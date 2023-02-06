@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
 - 🧠 Now: Mostly freelance software engineering projects
 
-## Open to new freelance projects or full-time data engineering gigs. Also open to getting pitched to join your startup at the C-level.
+## Open to new freelance projects or full-time data engineering gigs.
 
 <!--
 - 👯 I’m looking to collaborate on ...
