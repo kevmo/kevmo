@@ -7,7 +7,7 @@
 - 🧠 Now: Mostly freelance software engineering projects
 - 🎨 Occasional comics author - here is latest - [History of Company Towns](https://thenib.com/company-towns-history/)
 
-## Open to new freelance projects or full-time data engineering gigs.
+## Open to new freelance projects, full-time data engineering gigs, and ridiculous pitches to join your startup.
 
 <!--
 - 👯 I’m looking to collaborate on ...
