@@ -3,7 +3,7 @@
 - 🔭 Data engineering
 - 🤖 Learning Scala
 - 🧑‍⚖️ Former lawyer, was an elbow law clerk to 2 different federal trial judges
-- ⚡ Fun fact: Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
+- ⚡ Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
 - 🧠 Now: Mostly freelance software engineering projects
 
 ## Open to new freelance projects or full-time data engineering gigs.
