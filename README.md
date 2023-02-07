@@ -6,7 +6,10 @@
 - 🎨 Occasional comics author - here is latest - [History of Company Towns](https://thenib.com/company-towns-history/)
 - 🧑‍⚖️ Former elbow law clerk to 2 different federal trial judges (a long time ago, but still pretty cool experience)
 
-## 👋 Open to new freelance projects, full-time data engineering gigs, and creative pitches to join your ridiculous startup!
+###  👋 Open to 
+* new freelance projects
+* full-time data engineering gigs
+* creative pitches for leadership roles
 
 <!--
 - 👯 I’m looking to collaborate on ...
