@@ -1,8 +1,8 @@
 # 🤠 Howdy, Pardner - Welcome to Kevin Moore's GitHub 🤠
 
-- 🔭 Current interest: Data engineering 
+- 🔭 Currently: [Data engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
 - 🤖 Freelancing: Full-stack web apps
-- ⚡ Past: Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
+- ⏰ Past: Founding CTO of Upsolve.org ("TurboTax for Bankruptcy" -WSJ)
 - 🎨 Occasional comics author - latest: [History of Company Towns](https://thenib.com/company-towns-history/)
 - 🧑‍⚖️ Former elbow law clerk to 2 different federal trial judges (long time ago, but still pretty cool experience)
 
