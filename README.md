@@ -9,7 +9,7 @@
 ###  👋 Open to 
 * new freelance projects
 * full-time data engineering gigs
-* creative pitches for leadership roles
+* pitches for leadership roles at startups
 
 <!--
 - 👯 I’m looking to collaborate on ...
