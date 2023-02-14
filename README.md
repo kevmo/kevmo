@@ -11,6 +11,9 @@
 * full-time data engineering gigs
 * pitches for leadership roles at startups
 
+### Conference Slides
+* [Slouching Towards Skynet: Building a Robotic Car with Python and Raspberry Pi](https://docs.google.com/presentation/d/e/2PACX-1vSab4J4hUtDmXK50V8a-oElv9XWEmnzTCKypJb_5Zqh1i1RRwM-HaIojah55LnUANJJkR_RZb8pNvOm/pub?start=false&loop=false&delayms=10000)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
