@@ -11,7 +11,7 @@
 
 Just send me an email at hello@kevmo.io!
 
-### 🔬 Tools I like to use:
+### 🔬 Tools
 
 Python, SQL, Scala, bash, Linux, Terraform, AWS/GCP/Azure, pandas, numpy
 
