@@ -6,10 +6,12 @@
 - 🎨 Occasional comics author - latest: [History of Company Towns](https://thenib.com/company-towns-history/)
 - 🧑‍⚖️ Former elbow law clerk to 2 different federal trial judges (long time ago, but still pretty cool experience)
 
-###  👋 Open to 
+###  👋 Open to...
 * new freelance projects
 * full-time data engineering gigs
 * pitches for leadership roles at startups
+
+Just send me an email at hello@kevmo.io!
 
 ### 🗣️ Conference Slides
 * [Slouching Towards Skynet: Building a Robotic Car with Python and Raspberry Pi](https://docs.google.com/presentation/d/e/2PACX-1vSab4J4hUtDmXK50V8a-oElv9XWEmnzTCKypJb_5Zqh1i1RRwM-HaIojah55LnUANJJkR_RZb8pNvOm/pub?start=false&loop=false&delayms=10000)
