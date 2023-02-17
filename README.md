@@ -5,7 +5,7 @@
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071))
 
 ###  👋 Hire me!
-* new freelance projects
+* freelance projects
 * full-time data engineering gigs
 * pitches for leadership roles at startups
 
