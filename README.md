@@ -9,7 +9,7 @@
 * full-time data engineering gigs
 * pitches for leadership roles at startups
 
-Just send me an email at hello-at-kevmo.io!
+Contact me at hello-at-kevmo.io!
 
 ### 🔬 Tools
 
