@@ -11,9 +11,13 @@
 
 Contact me at hello-at-kevmo.io!
 
-### 🔬 Tools
+### 🔬 Tools I've Recently Used
 
-Python, SQL, bash, Linux, Terraform, AWS/GCP/Azure, pandas, numpy, HTML/CSS/JS
+* Languages: Python, JavaScript, Ruby, TypeScript
+* Data Engineering: SQL, pandas, numpy, dbt, Anaconda, Kafka, Spark
+* Cloud: AWS, GCP, Azure, DO
+* DevOps: Terraform, Ansible
+* Web: HTML/CSS/JS, React, TypeScript
 
 ### 🗣️ Conference Slides
 * [Slouching Towards Skynet: Building a Robotic Car with Python and Raspberry Pi](https://docs.google.com/presentation/d/e/2PACX-1vSab4J4hUtDmXK50V8a-oElv9XWEmnzTCKypJb_5Zqh1i1RRwM-HaIojah55LnUANJJkR_RZb8pNvOm/pub?start=false&loop=false&delayms=10000)
