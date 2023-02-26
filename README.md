@@ -1,7 +1,7 @@
 # 🤠 Howdy, Pardner - Welcome to Kevin Moore's GitHub 🤠
 
 - 🤖 Freelancing: Full-stack web apps
-- 🔭 Current Obsession: [Data engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
+- 🔭 Current Obsession: [Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071))
 - 🩸 Open Source contributor
 
