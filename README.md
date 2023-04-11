@@ -8,8 +8,8 @@
 
 ###  👋 Hire me!
 * freelance projects
-* full-time data engineering gigs
-* pitches for leadership roles at startups
+* full-time DE or SWE gigs
+* pitches for already-funded startups
 
 Contact me at hello-at-kevmo.io!
 
