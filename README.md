@@ -1,4 +1,4 @@
-# 🤠 Howdy, Pardner - Welcome to Kevin Moore's GitHub 🤠
+# 🤠 Howdy, Pardner 🤠
 
 - 🤖 Freelancing: Full-stack web apps
 - 🔭 Current Obsession: [Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
