@@ -2,7 +2,7 @@
 
 - 🤖 Freelancing: Full-stack web apps
 - 🔭 Current Obsession: [Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
-- ☁️ Also currently speed-running AWS certifications (picked up [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) in March 2023 - Machine Learning is next!)
+- ☁️ Also currently speed-running AWS certifications (picked up [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) in March 2023 - Machine Learning and Networking are next!)
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071))
 - :octopus: Open Source contributor
 
