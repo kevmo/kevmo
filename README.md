@@ -18,7 +18,7 @@ Contact me at hello-at-kevmo.io!
 * Languages: Python, JavaScript, Ruby, TypeScript
 * Data Engineering: SQL, pandas, numpy, dbt, Anaconda, Kafka, Spark
 * Cloud: AWS, GCP, Azure, DO
-* DevOps: Terraform, Ansible
+* DevOps/IaC: Terraform, Ansible, CloudFormation
 * Web: HTML/CSS/JS, React, TypeScript
 
 ### 🗣️ Conference Slides
