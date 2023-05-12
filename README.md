@@ -9,7 +9,7 @@
 ###  👋 Hire me!
 * freelance projects
 * full-time DE or SWE gigs
-* pitches for already-funded startups
+* pitches for  leadership roles
 
 Contact me at hello-at-kevmo.io!
 
