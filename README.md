@@ -1,8 +1,7 @@
 # 🤠 Howdy, Pardner 🤠
 
 - 🤖 Freelancing: Full-stack web apps
-- 🔭 Current Obsessions: Data Engineering, Distributed Computing
-- ☁️ 2023 AWS certifications speed-run (picked up [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) so far - Machine Learning and Networking are next!)
+- ☁️ 2023 AWS certifications speed-run (picked up [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) so far - Networking and Databases are next!)
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071)), SWE at startups (data crunching, ad tech)
 - :octopus: Open Source contributor
 
