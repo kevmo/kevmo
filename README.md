@@ -1,6 +1,6 @@
 # 🤠 Howdy, Pardner 🤠
 
-- 🤖 Freelancing: Full-stack web apps
+- 🤖 Freelancing: Full-stack web apps / Agile Development
 - ☁️ Recent Obsession: Distributed computing. Currently on an AWS certifications speed-run (picked up [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) so far - Networking and Databases are next!)
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071)), SWE at startups (data crunching, ad tech)
 - :octopus: Open Source contributor
