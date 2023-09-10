@@ -8,7 +8,6 @@
 ###  👨‍💻 Work With Me
 * freelance projects
 * DE or SWE gigs
-* pitches for  leadership roles
 
 Contact me at hello-at-kevmo.io!
 
