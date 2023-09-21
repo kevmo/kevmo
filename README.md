@@ -2,7 +2,7 @@
 
 - 🤖 Freelancing: Full-stack web apps / Agile Development
 - ⏰ Past: Founding CTO of Upsolve.org (["TurboTax for Bankruptcy" -WSJ](https://www.wsj.com/articles/for-struggling-consumers-a-cheaper-way-to-file-for-bankruptcy-1505096071)), SWE at startups (web apps, data crunching, ad tech)
-- :octopus: Open Source contributor
+- 🚀 Open Source contributor
 
 Contact me at hello-at-kevmo.io!
 
