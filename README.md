@@ -1,6 +1,4 @@
-# 🤠 Howdy, Pardner 🤠
-
-- 🤖 Freelancing: Full-stack web apps / Agile Development\
+# 🤖 Freelancing: Full-stack web apps / Agile Development
 
 Contact me at hello-at-kevmo.io!
 
